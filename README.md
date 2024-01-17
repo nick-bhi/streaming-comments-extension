@@ -12,4 +12,8 @@ Comments appear as the user gets to the time in the video when the comment was l
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ECtxikd4N00?si=773rzCmdtgHi9X5R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://github.com/nick-bhi/streaming-comments-extension/assets/59455952/3eb01346-e88e-405a-81bc-4cad33be4f30
+
+
