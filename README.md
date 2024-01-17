@@ -14,6 +14,10 @@ Comments appear as the user gets to the time in the video when the comment was l
 
 
 
-https://github.com/nick-bhi/streaming-comments-extension/assets/59455952/3eb01346-e88e-405a-81bc-4cad33be4f30
+https://github.com/nick-bhi/streaming-comments-extension/assets/59455952/3364d2ef-2ee1-4ee6-89d1-27bd9d2f5841
+
+
+
+
 
 
