@@ -12,4 +12,4 @@ Comments appear as the user gets to the time in the video when the comment was l
 
 ## Demo
 
-[![Video Title](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID "Video Title")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ECtxikd4N00?si=773rzCmdtgHi9X5R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
